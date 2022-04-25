@@ -1,0 +1,194 @@
+@media only screen and (max-width: 650px) {
+.logInForm {
+    max-width: 300px !important;
+}
+
+#controles{
+    margin-top: auto !important;
+}
+#char{
+    width: 100% !important;
+}
+.card-usuarios{
+    padding: 0 0.75rem !important;
+    background: #149fda !important;
+}
+.card-alumnos{
+    background: green !important
+}
+.card-estadisticas{
+    background: orange !important;
+}
+.card-espera{
+    background: pink !important;
+}
+}
+.cover {
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.text_login {
+    text-shadow: 1px 3px 5px #000;
+    font-size: 4em;
+}
+#main-text{
+    position: relative;
+    margin: 0em auto;
+    padding: 1em;
+    padding-bottom: 0;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    font-weight: 900;
+    text-shadow: 0 0 8px rgba(255, 252, 252, 0.5);
+    top: 20px;
+    padding-top: 2em;
+}
+.logInForm {
+	text-align: center;
+    max-width: 440px;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 1.5px;
+    color: #FFF;
+    top: 30px;
+    position: relative;
+    margin: 1em auto;
+    padding: 15px;
+    box-shadow: 0 0 3px rgba(0,0,0,.7);
+    border-radius: 0 0 2px 2px;
+    background-color: rgba(0, 0, 0, .7);
+}
+.dashboard-left{
+    left: 0;
+    z-index: 2;
+    background-color: #007045;
+    border-right: 1px solid rgba(255, 255, 255, .4);
+    overflow: hidden;
+    text-align: center;
+}
+#avatar img{
+    display: block;
+    margin: 0 auto;
+}
+#avatar{
+    color: white;
+    font-weight: bold;
+    
+}
+#dashboard-izq{
+    box-shadow: 0 0 3px rgba(0,0,0,.7);
+}
+#name_user a{
+    color: white;
+}
+#controles{
+    margin-top: 40px;
+}
+.margen-controles{
+    margin: 25px;
+}
+#menubar{
+    border-bottom-style: solid;
+    border-color: white;
+    border-width: 1px;
+}
+#titulo{
+    background-image:url('https://i0.wp.com/www.liceomilitardelnorte.com/wp-content/uploads/2017/12/LOGO.png?w=125&ssl=1');
+    width:188px;
+    height:180px;
+    text-indent:-99999px;
+    margin: 0px;
+}
+.SubTitle {
+    margin-top: 5px;
+    font-size: 1.05em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.bordes{
+box-shadow: 2px 4px 4px black;
+margin: 10px;
+border-bottom-color: #2657b2;
+border-left-color: #2657b2;
+border-right-color: #2657b2;
+border-top-color: #2657b2;
+border-style: dotted;
+border-width: 1px;
+box-sizing: border-box;
+padding-bottom: 7px;
+padding-left: 7px;
+padding-right: 7px;
+padding-top: 7px;
+-moz-box-sizing: border-box;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+.row {
+    margin-bottom: 6px !important;
+}
+#list li a{
+    color: white;
+}
+
+
+#list li a:hover{
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+.tabs .indicator {
+background-color: #2080d0 !important;
+}
+.header2{
+border-bottom-style: solid;
+border-color: #2080d0;
+border-width: 1px;
+}
+
+.strong {
+    font-weight: 600;
+}
+.header {
+    line-height: 2.508rem;
+    margin: 1.14rem 0 0.912rem 0;
+    font-size: 1.4rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.invoice-text {
+    padding: 19px 0;
+}
+.collapsible-body{
+    background: #f5f5f5;
+}
+.margenes{
+    margin: 5px;
+}
+.background-round {
+    background-color: rgba(0, 0, 0, 0.18);
+    padding: 15px;
+    border-radius: 50%;
+}
+#cards{
+    padding-top: 10px; 
+}
+.card-usuarios{
+    padding: 0 0.75rem;
+    background: #149fda;
+}
+.card-alumnos{
+    background: green;
+}
+.card-estadisticas{
+    background: orange;
+}
+.card-espera{
+    background: pink;
+}
+.padding {
+    padding: 2% !important;
+}
